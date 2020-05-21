@@ -21,3 +21,16 @@
     direction: rtl;
     text-align: right;
 }
+.about_story-rtl{
+  text-align: center;
+}
+.story_heading h3{
+text-align: right !important;
+}
+.register-rtl{
+  direction: rtl;
+  text-align: right;
+}
+.reg-left{
+  text-align: left !important;
+}
